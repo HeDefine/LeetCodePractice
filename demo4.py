@@ -21,6 +21,7 @@
 
 
 class Solution:
+    # 其实题目要求的时间复杂度意味着要用二分法的方法来解题，这里是取巧了
     def findMedianSortedArrays(self, nums1: [int], nums2: [int]) -> float:
         allNum = list(nums1)
         allNum.extend(nums2)
@@ -32,8 +33,10 @@ class Solution:
             return allNum[len(allNum) // 2]
 
 
+
+
+
 nums1 = [1, 2]
 nums2 = [-1, 3]
 print(Solution().findMedianSortedArrays(nums1, nums2))
 
-# 其实题目要求的时间复杂度意味着要用二分法的方法来解题，这里是取巧了
