@@ -44,5 +44,4 @@ class Solution:
         return "".join(result)
 
 
-
 print(Solution().convert("LEETCODEISHIRING", 1))
