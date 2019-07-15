@@ -30,7 +30,7 @@ class Solution:
         temp = list(s)
         temp.reverse()
         reverseStr = "".join(temp)
-        resultInt = int(reverseStr);
+        resultInt = int(reverseStr)
         if not isOverZero:
             resultInt = -1 * resultInt
 
@@ -40,3 +40,7 @@ class Solution:
 
 
 print(Solution().reverse(1534236469))
+
+
+# 解题思路: 先转换成字符串，再转换成list。 再利用python3的list反转。实现数字的反转
+# Python特别简单，是因为不用考虑字符串溢出的情况。如果没有这个情况的话，利用Long来实现字符串溢出可能比较好
