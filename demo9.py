@@ -29,3 +29,6 @@ class Solution:
 
 
 print(Solution().isPalindrome(121))
+
+
+# 解题思路: 倒序, 然后相减
