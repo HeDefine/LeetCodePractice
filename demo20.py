@@ -6,31 +6,26 @@
 # 左括号必须用相同类型的右括号闭合。
 # 左括号必须以正确的顺序闭合。
 # 注意空字符串可被认为是有效字符串。
-#
-# 示例 1:
-# 输入: "()"
-# 输出: true
-#
-# 示例 2:
-# 输入: "()[]{}"
-# 输出: true
-#
-# 示例 3:
-# 输入: "(]"
-# 输出: false
-#
-# 示例 4:
-# 输入: "([)]"
-# 输出: false
-#
-# 示例 5:
-# 输入: "{[]}"
-# 输出: true
 
 
 class Solution:
     def isValid(self, s: str) -> bool:
-        pass
+        l0 = list()
+        for ch in s:
+            if ch == "(" or ch == "[" or ch == "{":
+                l0.append(ch)
+            if ch == ")" or ch == "]" or ch == "}":
+                if len(l0) == 0:
+                    return False
+                if ch == ")" and l0[len(l0) - 1] == "(":
+                    l0.pop()
+                elif ch == "]" and l0[len(l0) - 1] == "[":
+                    l0.pop()
+                elif ch == "}" and l0[len(l0) - 1] == "{":
+                    l0.pop()
+                else:
+                    return False
+        return len(l0) == 0
 
 
 print(Solution().isValid("()"))  # True
@@ -38,3 +33,5 @@ print(Solution().isValid("()[]{}"))  # True
 print(Solution().isValid("(]"))  # False
 print(Solution().isValid("([)]"))  # False
 print(Solution().isValid("{[]}"))  # True
+print(Solution().isValid("]"))  # False
+print(Solution().isValid("{]}"))  # False
