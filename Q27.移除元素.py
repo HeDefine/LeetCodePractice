@@ -42,3 +42,5 @@ print(nums1[0:Solution().removeElement(nums1, 3)])
 
 nums2 = [0, 1, 2, 2, 3, 0, 4, 2]
 print(nums2[0:Solution().removeElement(nums2, 2)])
+
+# 解题思路: 双指针法
