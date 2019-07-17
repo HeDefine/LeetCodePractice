@@ -35,3 +35,6 @@ print(Solution().isValid("([)]"))  # False
 print(Solution().isValid("{[]}"))  # True
 print(Solution().isValid("]"))  # False
 print(Solution().isValid("{]}"))  # False
+
+# 解题思路: 利用先进后出的思路, 如果是"(" "[" "]"就推入，如果是")" "]" "}"就推出
+# 推出之前判断最后一个是不是它对应的那个括号，如果不是，返回错误
