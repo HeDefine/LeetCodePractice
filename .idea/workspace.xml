@@ -4,20 +4,20 @@
     <list default="true" id="ba5bb991-5681-4877-9c37-602afcae0350" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.两数之和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.正则表达式匹配.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo13.py" beforeDir="false" afterPath="$PROJECT_DIR$/13.罗马数字转整数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo14.py" beforeDir="false" afterPath="$PROJECT_DIR$/14.最长公共前缀.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo15.py" beforeDir="false" afterPath="$PROJECT_DIR$/15.三数之和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.两数相加.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo20.py" beforeDir="false" afterPath="$PROJECT_DIR$/20.有效的括号.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.无重复字符的最长子串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo4.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.寻找两个有序数组的中位数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo5.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.最长回文子串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo6.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.Z字形变换.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo7.py" beforeDir="false" afterPath="$PROJECT_DIR$/7.整数反转.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo8.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.字符串转换整数(atoi).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo9.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.回文数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.两数之和.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q1.两数之和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.正则表达式匹配.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q10.正则表达式匹配.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.罗马数字转整数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q13.罗马数字转整数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.最长公共前缀.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q14.最长公共前缀.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.三数之和.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q15.三数之和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.两数相加.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q2.两数相加.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.有效的括号.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q20.有效的括号.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.无重复字符的最长子串.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q3.无重复字符的最长子串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.寻找两个有序数组的中位数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q4.寻找两个有序数组的中位数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.最长回文子串.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q5.最长回文子串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.Z字形变换.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q6.Z字形变换.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.整数反转.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q7.整数反转.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.字符串转换整数(atoi).py" beforeDir="false" afterPath="$PROJECT_DIR$/Q8.字符串转换整数(atoi).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.回文数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q9.回文数.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +28,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8.字符串转换整数(atoi).py">
+        <entry file="file://$PROJECT_DIR$/Q8.字符串转换整数(atoi).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="458">
               <caret line="65" selection-start-line="65" selection-end-line="65" />
@@ -37,7 +37,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.正则表达式匹配.py">
+        <entry file="file://$PROJECT_DIR$/Q10.正则表达式匹配.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="532">
               <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
@@ -46,7 +46,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/13.罗马数字转整数.py">
+        <entry file="file://$PROJECT_DIR$/Q13.罗马数字转整数.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="705">
               <caret line="69" column="36" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
@@ -55,7 +55,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14.最长公共前缀.py">
+        <entry file="file://$PROJECT_DIR$/Q14.最长公共前缀.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="667">
               <caret line="44" column="52" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
@@ -64,30 +64,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15.三数之和.py">
+        <entry file="file://$PROJECT_DIR$/Q15.三数之和.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20.有效的括号.py">
+        <entry file="file://$PROJECT_DIR$/Q20.有效的括号.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="228">
+              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.两数之和.py">
+        <entry file="file://$PROJECT_DIR$/Q1.两数之和.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="367">
-              <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
+              <caret line="59" column="26" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9.回文数.py">
+        <entry file="file://$PROJECT_DIR$/Q9.回文数.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="494">
               <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
@@ -195,7 +195,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.两数之和.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q1.两数之和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,7 +217,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.罗马数字转整数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q13.罗马数字转整数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,7 +239,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14.最长公共前缀.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q14.最长公共前缀.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,7 +261,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20.有效的括号.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q20.有效的括号.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,7 +283,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8.字符串转换整数(atoi).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q8.字符串转换整数(atoi).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,12 +318,12 @@
       <workItem from="1563104195201" duration="538000" />
       <workItem from="1563104895171" duration="183000" />
       <workItem from="1563105100168" duration="784000" />
-      <workItem from="1563182235705" duration="16532000" />
+      <workItem from="1563182235705" duration="16783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70200000" />
+    <option name="totallyTimeSpent" value="70451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -394,7 +394,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.两数相加.py">
+    <entry file="file://$PROJECT_DIR$/Q2.两数相加.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
@@ -421,7 +421,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../LeetCode/demo6.py" />
-    <entry file="file://$PROJECT_DIR$/5.最长回文子串.py">
+    <entry file="file://$PROJECT_DIR$/Q5.最长回文子串.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
           <caret line="37" selection-start-line="37" selection-end-line="37" />
@@ -435,69 +435,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7.整数反转.py">
+    <entry file="file://$PROJECT_DIR$/Q7.整数反转.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
           <caret line="32" selection-start-line="28" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6.Z字形变换.py">
+    <entry file="file://$PROJECT_DIR$/Q6.Z字形变换.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8.字符串转换整数(atoi).py">
+    <entry file="file://$PROJECT_DIR$/Q8.字符串转换整数(atoi).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
           <caret line="65" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9.回文数.py">
+    <entry file="file://$PROJECT_DIR$/Q9.回文数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.正则表达式匹配.py">
+    <entry file="file://$PROJECT_DIR$/Q10.正则表达式匹配.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13.罗马数字转整数.py">
+    <entry file="file://$PROJECT_DIR$/Q13.罗马数字转整数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="69" column="36" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/14.最长公共前缀.py">
+    <entry file="file://$PROJECT_DIR$/Q14.最长公共前缀.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="667">
           <caret line="44" column="52" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.两数之和.py">
+    <entry file="file://$PROJECT_DIR$/Q1.两数之和.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
-          <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
+          <caret line="59" column="26" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15.三数之和.py">
+    <entry file="file://$PROJECT_DIR$/Q15.三数之和.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/20.有效的括号.py">
+    <entry file="file://$PROJECT_DIR$/Q20.有效的括号.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="228">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
