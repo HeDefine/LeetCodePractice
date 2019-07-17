@@ -40,3 +40,6 @@ class Solution:
 
 print(Solution().longestCommonPrefix(["flower", "flow", "flight"]))  # "fl"
 print(Solution().longestCommonPrefix(["dog", "racecar", "car"]))  # ""
+
+
+# 解题思路: 两次遍历，时间复杂度O(n^2)  一次遍历字符串，一次遍历前面重复几个字符串重复的前缀
