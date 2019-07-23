@@ -48,7 +48,14 @@
 
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
-        pass
+        for ch in p:
+            if ch == ".":
+                pass
+            elif ch == "*":
+                pass
+            else:
+
+                pass
 
 
 print(Solution().isMatch("aa", "a"))  # False
