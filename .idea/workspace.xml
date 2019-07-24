@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba5bb991-5681-4877-9c37-602afcae0350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Q136.只出现一次的数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q141.环形链表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,11 +76,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Q136.只出现一次的数字.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state relative-caret-position="494">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Q141.环形链表.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -148,6 +158,7 @@
         <option value="$PROJECT_DIR$/Q122.买卖股票的最佳时机II.py" />
         <option value="$PROJECT_DIR$/Q125.验证回文串.py" />
         <option value="$PROJECT_DIR$/Q136.只出现一次的数字.py" />
+        <option value="$PROJECT_DIR$/Q141.环形链表.py" />
       </list>
     </option>
   </component>
@@ -351,12 +362,12 @@
       <workItem from="1563105100168" duration="784000" />
       <workItem from="1563182235705" duration="39828000" />
       <workItem from="1563498240660" duration="52951000" />
-      <workItem from="1563959346880" duration="1939000" />
+      <workItem from="1563959346880" duration="2505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148386000" />
+    <option name="totallyTimeSpent" value="148952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
@@ -460,7 +471,6 @@
     <SUITE FILE_PATH="coverage/LeetCodePractice$1_.coverage" NAME="1.两数之和 Coverage Results" MODIFIED="1563328929074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../LeetCode/demo2.py" />
     <entry file="file://$PROJECT_DIR$/../LeetCode/demo3.py" />
     <entry file="file://$PROJECT_DIR$/../LeetCode/demo4.py" />
     <entry file="file://$PROJECT_DIR$/../LeetCode/demo1.py" />
@@ -766,8 +776,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Q136.只出现一次的数字.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        <state relative-caret-position="494">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q141.环形链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
         </state>
       </provider>
     </entry>
