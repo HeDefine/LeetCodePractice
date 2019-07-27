@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba5bb991-5681-4877-9c37-602afcae0350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Q176.第二高的薪水.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q181.超过经理收入的员工.sql" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,15 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Q141.环形链表.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="40" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Q155.最小栈.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,11 +84,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Q176.第二高的薪水.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Q181.超过经理收入的员工.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -117,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo6.py" />
         <option value="$PROJECT_DIR$/demo7.py" />
         <option value="$PROJECT_DIR$/demo8.py" />
         <option value="$PROJECT_DIR$/demo9.py" />
@@ -168,6 +167,7 @@
         <option value="$PROJECT_DIR$/Q175.组合两个表.py" />
         <option value="$PROJECT_DIR$/Q175.组合两个表.sql" />
         <option value="$PROJECT_DIR$/Q176.第二高的薪水.sql" />
+        <option value="$PROJECT_DIR$/Q181.超过经理收入的员工.sql" />
       </list>
     </option>
   </component>
@@ -371,22 +371,22 @@
       <workItem from="1563105100168" duration="784000" />
       <workItem from="1563182235705" duration="39828000" />
       <workItem from="1563498240660" duration="52951000" />
-      <workItem from="1563959346880" duration="19260000" />
+      <workItem from="1563959346880" duration="19445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165707000" />
+    <option name="totallyTimeSpent" value="165892000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1080" height="1897" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.499723" visible="true" weight="0.29190752" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.499723" visible="true" weight="0.29190752" />
       <window_info id="Structure" order="2" sideWeight="0.500277" side_tool="true" weight="0.17630059" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.49893504" visible="true" weight="0.103601106" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49893504" visible="true" weight="0.103601106" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32953367" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50106496" side_tool="true" weight="0.15336788" />
       <window_info anchor="bottom" id="Python Console" order="4" />
@@ -486,13 +486,6 @@
     <SUITE FILE_PATH="coverage/LeetCodePractice$1_.coverage" NAME="1.两数之和 Coverage Results" MODIFIED="1563328929074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Q6.Z字形变换.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Q20.有效的括号.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -836,6 +829,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q181.超过经理收入的员工.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
         </state>
       </provider>
     </entry>
