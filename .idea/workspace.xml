@@ -96,8 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Q182.查找重复的电子邮箱.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="399">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -371,16 +371,15 @@
       <workItem from="1563105100168" duration="784000" />
       <workItem from="1563182235705" duration="39828000" />
       <workItem from="1563498240660" duration="52951000" />
-      <workItem from="1563959346880" duration="19627000" />
+      <workItem from="1563959346880" duration="19756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166074000" />
+    <option name="totallyTimeSpent" value="166203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1080" height="1897" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.499723" visible="true" weight="0.29190752" />
@@ -834,8 +833,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Q182.查找重复的电子邮箱.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
