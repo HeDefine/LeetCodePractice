@@ -26,7 +26,26 @@ class TreeNode:
 
 class Solution:
     def binaryTreePaths(self, root: TreeNode) -> [str]:
-        pass
+        def getOnePath(r: TreeNode, allPath: [str], curStr: str):
+            if len(curStr) == 0:
+                curStr = str(r.val)
+            else:
+                curStr += "->" + str(r.val)
+
+            if r.left is None and r.right is None:
+                allPath.append(curStr)
+                return
+
+            if r.left is not None:
+                getOnePath(r.left, allPath, curStr)
+
+            if r.right is not None:
+                getOnePath(r.right, allPath, curStr)
+        result = []
+        if root is not None:
+            getOnePath(root, result, "")
+        return result
+
 
 t1 = TreeNode(1)
 t2 = TreeNode(2)

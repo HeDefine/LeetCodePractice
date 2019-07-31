@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba5bb991-5681-4877-9c37-602afcae0350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Q242.有效的字母异位词.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q257.二叉树的所有路径.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q257.二叉树的所有路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q257.二叉树的所有路径.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Q257.二叉树的所有路径.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            <state relative-caret-position="137">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -162,29 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Q242.有效的字母异位词">
-    <configuration name="Q231.2的幂" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q231.2的幂.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Q257.二叉树的所有路径">
     <configuration name="Q232.用栈实现队列" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,13 +249,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Q257.二叉树的所有路径" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q257.二叉树的所有路径.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q257.二叉树的所有路径" />
         <item itemvalue="Python.Q242.有效的字母异位词" />
         <item itemvalue="Python.Q237.删除链表中的节点" />
         <item itemvalue="Python.Q235.二叉搜索树的最近公共祖先" />
         <item itemvalue="Python.Q232.用栈实现队列" />
-        <item itemvalue="Python.Q231.2的幂" />
       </list>
     </recent_temporary>
   </component>
@@ -302,12 +300,12 @@
       <workItem from="1563182235705" duration="39828000" />
       <workItem from="1563498240660" duration="52951000" />
       <workItem from="1563959346880" duration="49684000" />
-      <workItem from="1564533685961" duration="8409000" />
+      <workItem from="1564533685961" duration="10843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204540000" />
+    <option name="totallyTimeSpent" value="206974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
@@ -430,6 +428,7 @@
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q11_.coverage" NAME="Q11.盛最多水的容器 Coverage Results" MODIFIED="1563842235730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q189_.coverage" NAME="Q189.旋转数组 Coverage Results" MODIFIED="1564305200740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$demo14.coverage" NAME="demo14 Coverage Results" MODIFIED="1563283921231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodePractice$Q257_.coverage" NAME="Q257.二叉树的所有路径 Coverage Results" MODIFIED="1564552236786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q112_.coverage" NAME="Q112.路径总和 Coverage Results" MODIFIED="1563869935316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q171_Excel.coverage" NAME="Q171.Excel表列序号 Coverage Results" MODIFIED="1564127914407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q125_.coverage" NAME="Q125.验证回文串 Coverage Results" MODIFIED="1563960381332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -827,8 +826,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Q257.二叉树的所有路径.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        <state relative-caret-position="137">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
