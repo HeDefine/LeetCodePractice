@@ -31,8 +31,18 @@ class TreeNode:
 
 
 class Solution:
+
     def pathSum(self, root: TreeNode, sum: int) -> int:
-        pass
+        def countPath(r: TreeNode, s: int) -> int:
+            if r is None:
+                return 0
+            res = 1 if s == r.val else 0
+            return res + countPath(r.left, s - r.val) + countPath(r.right, s - r.val)
+
+        if root is None:
+            return 0
+
+        return self.pathSum(root.left, sum) + self.pathSum(root.right, sum) + countPath(root, sum)
 
 
 t1 = TreeNode(10)
