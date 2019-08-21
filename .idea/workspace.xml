@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba5bb991-5681-4877-9c37-602afcae0350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Q177.第N高的薪水.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q178.分数排名.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q680.验证回文字符串Ⅱ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q682.棒球比赛.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q686.重复叠加字符串匹配.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q687.最长同值路径.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q690.员工的重要性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q693.交替位二进制数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q696.计数二进制子串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q180.连续出现的数字.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -206,7 +198,7 @@
       <workItem from="1564620070241" duration="46707000" />
       <workItem from="1565072632062" duration="39473000" />
       <workItem from="1565316933912" duration="563000" />
-      <workItem from="1565318799886" duration="91333000" />
+      <workItem from="1565318799886" duration="92124000" />
     </task>
     <servers />
   </component>
