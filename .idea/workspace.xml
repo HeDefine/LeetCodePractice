@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba5bb991-5681-4877-9c37-602afcae0350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Q184.部门工资最高的员工.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q185.部门工资前三高的所有员工.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -198,7 +198,8 @@
       <workItem from="1564620070241" duration="46707000" />
       <workItem from="1565072632062" duration="39473000" />
       <workItem from="1565316933912" duration="563000" />
-      <workItem from="1565318799886" duration="92382000" />
+      <workItem from="1565318799886" duration="92583000" />
+      <workItem from="1566353606256" duration="785000" />
     </task>
     <servers />
   </component>
