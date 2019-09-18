@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba5bb991-5681-4877-9c37-602afcae0350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Q24.两两交换链表中的节点.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q22.括号生成.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q22.括号生成.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Q24.两两交换链表中的节点">
+  <component name="RunManager" selected="Python.Q22.括号生成">
     <configuration name="Q17.电话号码的字母组合" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,8 +167,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Q24.两两交换链表中的节点" />
         <item itemvalue="Python.Q22.括号生成" />
+        <item itemvalue="Python.Q24.两两交换链表中的节点" />
         <item itemvalue="Python.Q19.删除链表的倒数第N个节点" />
         <item itemvalue="Python.Q18.四数之和" />
         <item itemvalue="Python.Q17.电话号码的字母组合" />
@@ -209,7 +209,7 @@
       <workItem from="1568006941550" duration="5281000" />
       <workItem from="1568096812640" duration="411000" />
       <workItem from="1568274694454" duration="13979000" />
-      <workItem from="1568620368183" duration="3143000" />
+      <workItem from="1568620368183" duration="3725000" />
     </task>
     <servers />
   </component>
@@ -455,7 +455,7 @@
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q1005_K.coverage" NAME="Q1005.K次取反后最大化的数组和 Coverage Results" MODIFIED="1567472128980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$demo7.coverage" NAME="demo7 Coverage Results" MODIFIED="1563184500386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q1047_.coverage" NAME="Q1047.删除字符串中的所有相邻重复项 Coverage Results" MODIFIED="1567757817330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCodePractice$Q22_.coverage" NAME="Q22.括号生成 Coverage Results" MODIFIED="1568709678185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodePractice$Q22_.coverage" NAME="Q22.括号生成 Coverage Results" MODIFIED="1568768234714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q18_.coverage" NAME="Q18.四数之和 Coverage Results" MODIFIED="1568618333201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q476_.coverage" NAME="Q476.数字的补数 Coverage Results" MODIFIED="1565235001332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q1021_.coverage" NAME="Q1021.删除最外层的括号 Coverage Results" MODIFIED="1567479268328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
