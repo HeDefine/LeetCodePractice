@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba5bb991-5681-4877-9c37-602afcae0350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Q31.下一个排列.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q31.下一个排列.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q31.下一个排列.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -210,7 +210,7 @@
       <workItem from="1568096812640" duration="411000" />
       <workItem from="1568274694454" duration="13979000" />
       <workItem from="1568620368183" duration="5666000" />
-      <workItem from="1568878078280" duration="2227000" />
+      <workItem from="1568878078280" duration="7195000" />
     </task>
     <servers />
   </component>
@@ -398,7 +398,7 @@
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q1169_.coverage" NAME="Q1169.查询无效交易 Coverage Results" MODIFIED="1568006274923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q598_II.coverage" NAME="Q598.范围求和II Coverage Results" MODIFIED="1565750704021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q606_.coverage" NAME="Q606.根据二叉树创建字符串 Coverage Results" MODIFIED="1565775885365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCodePractice$Q31_.coverage" NAME="Q31.下一个排列 Coverage Results" MODIFIED="1568883720783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCodePractice$Q31_.coverage" NAME="Q31.下一个排列 Coverage Results" MODIFIED="1568950113114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q944_.coverage" NAME="Q944.删列造序 Coverage Results" MODIFIED="1567129955722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q383_.coverage" NAME="Q383.赎金信 Coverage Results" MODIFIED="1564716077703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCodePractice$Q830_.coverage" NAME="Q830.较大分组的位置 Coverage Results" MODIFIED="1566815051918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
