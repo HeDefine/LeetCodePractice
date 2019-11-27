@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba5bb991-5681-4877-9c37-602afcae0350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Q275.H指数II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q279.完全平方数.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -219,7 +219,7 @@
       <workItem from="1572241881338" duration="2437000" />
       <workItem from="1572244613687" duration="162987000" />
       <workItem from="1573434016652" duration="74615000" />
-      <workItem from="1574046490616" duration="15086000" />
+      <workItem from="1574046490616" duration="15428000" />
     </task>
     <servers />
   </component>
