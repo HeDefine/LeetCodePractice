@@ -13,7 +13,22 @@
 # 输出: 2
 # 解释: 13 = 4 + 9.
 
+from math import sqrt
+
 
 class Solution:
     def numSquares(self, n: int) -> int:
-        pass
+        dp = [n] * (n + 1)
+        dp[0] = 0
+        for i in range(1, n + 1, 1):
+            for j in range(1, n + 1, 1):
+                if j ** 2 > i:
+                    break
+                dp[i] = min(dp[i], dp[i - j * j] + 1)
+        return dp[-1]
+
+
+# print(Solution().numSquares(12))
+# print(Solution().numSquares(13))
+# print(Solution().numSquares(6922))
+print(Solution().numSquares(5812))
