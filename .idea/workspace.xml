@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba5bb991-5681-4877-9c37-602afcae0350" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Q284.顶端迭代器.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q279.完全平方数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q279.完全平方数.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -221,7 +221,7 @@
       <workItem from="1573434016652" duration="74615000" />
       <workItem from="1574046490616" duration="15428000" />
       <workItem from="1574823945077" duration="623000" />
-      <workItem from="1575614602506" duration="5067000" />
+      <workItem from="1575614602506" duration="6478000" />
     </task>
     <servers />
   </component>
